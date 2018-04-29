@@ -1,0 +1,18 @@
+[packages]
+"e1839a8" = {path = ".", editable = true}
+
+[dev-packages]
+asynctest = "*"
+pook = "*"
+pytest = "*"
+pytest-asyncio = "*"
+pytest-cov = "*"
+pytest-mock = "*"
+pytest-mypy = "*"
+pytest-pycodestyle = "*"
+pytest-pylint = "*"
+responses = "*"
+pytest-benchmark = "*"
+
+[requires]
+python_version = "3.6"

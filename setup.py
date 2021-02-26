@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 install_requires = [
-    'aiohttp == 2.3.2',
+    'aiohttp == 3.7.4',
     'requests == 2.18.4'
 ]
 
